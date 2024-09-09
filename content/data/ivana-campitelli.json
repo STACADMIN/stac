@@ -1,8 +1,8 @@
 {
     "type": "Person",
     "name": "Ivana Campitelli",
-    "role": "Job title",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+    "role": "Office Manager, Portuense, Rome.",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar5.svg",

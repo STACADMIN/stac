@@ -3,21 +3,55 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: STAC
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: STUDIO TECNICO AVERSA CAMPAGNA
+    text: >+
+      un team di professionisti qualificati specializzato in consulenze tecniche
+      e progettazione per privati, imprese ed enti pubblici. Con oltre 20 anni
+      di esperienza nel settore, offriamo una vasta gamma di servizi legati
+      all'edilizia, al catasto e alla gestione immobiliare.
+
+
+      **I nostri servizi includono:**
+
+
+      *   **Progettazione e Direzione Lavori:** Dalla progettazione
+      architettonica alla gestione completa del cantiere, garantiamo soluzioni
+      su misura, sicure e conformi alle normative vigenti.
+
+
+      *   **Pratiche Catastali e Topografiche:** Gestione delle pratiche
+      catastali, aggiornamenti cartografici, frazionamenti e rilievi topografici
+      di precisione.
+
+
+      *   **Certificazioni e Consulenze:** Certificazioni energetiche, perizie
+      tecniche e valutazioni immobiliari, consulenze per ristrutturazioni e
+      riqualificazioni energetiche.
+
+
+      *   **Gestione Immobiliare:** Assistenza tecnica per la compravendita di
+      immobili, pratiche di successione, frazionamenti e accatastamenti.
+
+
+      Il nostro obiettivo è fornire un servizio professionale, puntuale e
+      trasparente, seguendo il cliente in ogni fase del progetto, dal concept
+      iniziale alla realizzazione finale. Affidati a noi per trovare soluzioni
+      innovative e di alta qualità, che valorizzino il tuo patrimonio
+      immobiliare.
+
+
+      Contattaci per una consulenza o per saperne di più sui nostri servizi.
+
+
+
     actions:
-      - label: See open positions
+      - label: CONTATTACI
         url: /
         icon: arrowRight
         iconPosition: right
