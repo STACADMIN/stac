@@ -60,6 +60,7 @@ sections:
       - content/data/alessandro-iafolla.json
       - content/data/antonio-caselgrandi.json
       - content/data/adriano-piccirillo.json
+      - content/data/fabrizio-mauti.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
