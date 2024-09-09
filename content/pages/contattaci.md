@@ -8,7 +8,7 @@ sections:
       text: CONTATTACI
       color: text-dark
     subtitle: ''
-    text: "\n\n\n\nVia Portuense, 959 00148 Roma RM\n\nTel: +39\_06 40070173 | Email: \n\nP.IVA: 16536841006\n\n\n\n\n\n\n\n"
+    text: "Via Portuense, 959 00148 Roma RM\n\nTel: +39\_06 40070173 | Email: info\\@stac-am.it\n"
     actions: []
     media:
       type: FormBlock
