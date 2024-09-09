@@ -3,43 +3,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "**Studio Tecnico Geometri STAC**\n\n\n\n\n\nVia Portuense, 959 00148 Roma RM\n\nTel: +39 06 40070173 | Email: \n\nP.IVA: 16536841006\n\n\n\n\n\n\n\n",
     "secondaryLinks": {
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Home",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -48,7 +17,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Contatti",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
