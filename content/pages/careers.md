@@ -63,6 +63,7 @@ sections:
       - content/data/fabrizio-mauti.json
       - content/data/gianmarco-aversa.json
       - content/data/valerio-kamel.json
+      - content/data/ivana-campitelli.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
