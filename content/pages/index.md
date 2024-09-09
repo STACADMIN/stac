@@ -1,5 +1,5 @@
 ---
-title: 'Orari di apertura:Lunedì - Venerdì: 9:00 - 18:00Sabato: ChiusoDomenica: Chiuso'
+title: 'Orari di apertura:'
 slug: /
 sections:
   - title:
