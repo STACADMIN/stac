@@ -18,7 +18,7 @@
             },
             {
                 "label": "Contatti",
-                "url": "/Contatti/",
+                "url": "/Contattaci",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
