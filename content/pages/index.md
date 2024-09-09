@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: STUDIO TECNICO AVERSA CAMPAGNA
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Un team di professionisti qualificati specializzato in consulenze tecniche
+      e progettazione per privati, imprese ed enti pubblici. Con oltre \[X] anni
+      di esperienza nel settore, offriamo una vasta gamma di servizi legati
+      all'edilizia, al catasto e alla gestione immobiliare.
+
     actions:
       - label: Get started
         altText: ''
