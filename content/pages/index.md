@@ -1,17 +1,16 @@
 ---
-type: PageLayout
 title: Home
+slug: /
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
+  - title:
       text: STAC
       color: text-dark
       styles:
         self:
           textAlign: center
+      type: TitleBlock
     subtitle: STUDIO TECNICO AVERSA CAMPAGNA
-    text: >
+    text: >+
       un team di professionisti qualificati specializzato in consulenze tecniche
       e progettazione per privati, imprese ed enti pubblici. Con oltre 20 anni
       di esperienza nel settore, offriamo una vasta gamma di servizi legati
@@ -48,22 +47,17 @@ sections:
 
 
       Contattaci per una consulenza o per saperne di più sui nostri servizi.
+
+
+
     actions:
-      - type: Button
-        label: CONTATTACI
+      - label: CONTATTACI
         url: /
         icon: arrowRight
         iconPosition: right
         style: primary
+        type: Button
     colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
     styles:
       self:
         padding:
@@ -78,22 +72,32 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
+    type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/abstract-background.svg
+  - title:
       text: IL TEAM
       color: text-dark
       styles:
         self:
           textAlign: center
+      type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
       - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    actions: []
+      - content/data/alessandro-iafolla.json
+      - content/data/antonio-caselgrandi.json
+      - content/data/adriano-piccirillo.json
+      - content/data/fabrizio-mauti.json
+      - content/data/gianmarco-aversa.json
+      - content/data/valerio-kamel.json
+      - content/data/ivana-campitelli.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -106,10 +110,12 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /
+    type: FeaturedPeopleSection
 seo:
-  type: Seo
   metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
-  metaTags: []
+  metaDescription: This is the careers page built with Netlify Create.
+  socialImage: /images/main-hero.jpg
+  type: Seo
+type: PageLayout
+isDraft: true
 ---
