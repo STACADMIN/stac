@@ -57,7 +57,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: contattaci
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
 slug: Contattaci
