@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "name": "Luciano Aversa",
-    "role": "Founder",
+    "name": "Gianmarco Aversa",
+    "role": "Technical Supplies",
+    "bio": "",
     "image": {
-        "url": "/images/2.png",
-        "altText": "Nina Mercado",
+        "type": "ImageBlock",
+        "url": "/images/avatar5.svg",
+        "altText": "Drake Garza",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -12,11 +14,9 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-light-fg-dark",
-    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -32,6 +32,5 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "bio": ""
+    }
 }

@@ -56,12 +56,15 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
       - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
+      - content/data/alessandro-iafolla.json
+      - content/data/antonio-caselgrandi.json
+      - content/data/adriano-piccirillo.json
+      - content/data/fabrizio-mauti.json
+      - content/data/gianmarco-aversa.json
+      - content/data/valerio-kamel.json
+      - content/data/ivana-campitelli.json
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -164,4 +167,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
