@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: '                         STAC'
+      text: STAC
       color: text-dark
       type: TitleBlock
     subtitle: STUDIO TECNICO AVERSA CAMPAGNA
