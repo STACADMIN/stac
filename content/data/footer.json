@@ -3,7 +3,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "**Studio Tecnico Geometri STAC**\n\n\nVia Portuense 959, 00148 Roma RM\nTel: +39 06 40070173 | Email: \\[Email]\nP.IVA: 16536841006\n",
+    "text": "**Studio Tecnico Geometri STAC**\n\n<div style=\"text-align: left\">Via Portuense 959, 00148 Roma RM\nTel: +39 06 40070173 | Email: \\[Email]\nP.IVA: 16536841006</div>\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
