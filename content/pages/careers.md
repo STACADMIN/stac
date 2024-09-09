@@ -51,7 +51,7 @@ sections:
 
 
     actions:
-      - label: See open positions
+      - label: CONTATTACI
         url: /
         icon: arrowRight
         iconPosition: right
