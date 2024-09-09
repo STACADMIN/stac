@@ -8,11 +8,7 @@ sections:
       text: CONTATTACI
       color: text-dark
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "\n\n\n\nVia Portuense, 959 00148 Roma RM\n\nTel: +39\_06 40070173 | Email: \n\nP.IVA: 16536841006\n\n\n\n\n\n\n\n"
     actions: []
     media:
       type: FormBlock
