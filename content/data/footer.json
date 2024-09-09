@@ -4,37 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "**Studio Tecnico Geometri STAC**\n\n\n\n\n\nVia Portuense, 959 00148 Roma RM\n\nTel: +39 06 40070173 | Email: \n\nP.IVA: 16536841006\n\n\n\n\n\n\n\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "secondaryLinks": {
         "title": "Company",
         "links": [
