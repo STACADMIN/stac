@@ -1,6 +1,6 @@
 ---
 title: Careers
-slug: careers
+slug: /
 sections:
   - title:
       text: STAC
