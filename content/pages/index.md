@@ -52,7 +52,7 @@ sections:
 
     actions:
       - label: CONTATTACI
-        url: /
+        url: /Contattaci/
         icon: arrowRight
         iconPosition: right
         style: primary
