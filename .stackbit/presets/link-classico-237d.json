@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "classico",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "classico"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Lunedì - Venerdì: 9:00 - 18:00",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            "thumbnail": "images/link-classico-237d.png"
+        }
+    ]
+}
