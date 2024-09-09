@@ -14,6 +14,40 @@ sections:
       di esperienza nel settore, offriamo una vasta gamma di servizi legati
       all'edilizia, al catasto e alla gestione immobiliare.
 
+
+      **I nostri servizi includono:**
+
+
+      *   **Progettazione e Direzione Lavori:** Dalla progettazione
+      architettonica alla gestione completa del cantiere, garantiamo soluzioni
+      su misura, sicure e conformi alle normative vigenti.
+
+
+      *   **Pratiche Catastali e Topografiche:** Gestione delle pratiche
+      catastali, aggiornamenti cartografici, frazionamenti e rilievi topografici
+      di precisione.
+
+
+      *   **Certificazioni e Consulenze:** Certificazioni energetiche, perizie
+      tecniche e valutazioni immobiliari, consulenze per ristrutturazioni e
+      riqualificazioni energetiche.
+
+
+      *   **Gestione Immobiliare:** Assistenza tecnica per la compravendita di
+      immobili, pratiche di successione, frazionamenti e accatastamenti.
+
+
+      Il nostro obiettivo è fornire un servizio professionale, puntuale e
+      trasparente, seguendo il cliente in ogni fase del progetto, dal concept
+      iniziale alla realizzazione finale. Affidati a noi per trovare soluzioni
+      innovative e di alta qualità, che valorizzino il tuo patrimonio
+      immobiliare.
+
+
+      Contattaci per una consulenza o per saperne di più sui nostri servizi.
+
+
+
     actions:
       - label: Get started
         altText: ''
