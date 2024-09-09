@@ -59,6 +59,7 @@ sections:
       - content/data/person4.json
       - content/data/alessandro-iafolla.json
       - content/data/antonio-caselgrandi.json
+      - content/data/adriano-piccirillo.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
