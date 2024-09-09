@@ -39,7 +39,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: INVIA
         icon: arrowRight
         iconPosition: right
         style: primary
