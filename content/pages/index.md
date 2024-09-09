@@ -81,7 +81,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: IL TEAM
       color: text-dark
       styles:
         self:
