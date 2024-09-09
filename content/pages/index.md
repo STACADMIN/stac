@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Home
 slug: /
 sections:
   - title:
