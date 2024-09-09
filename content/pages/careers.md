@@ -57,6 +57,7 @@ sections:
     people:
       - content/data/person1.json
       - content/data/person4.json
+      - content/data/alessandro-iafolla.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
