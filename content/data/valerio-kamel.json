@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Valerio Kamel",
     "role": "Technical Supplies",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
