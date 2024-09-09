@@ -11,9 +11,9 @@ sections:
         self:
           textAlign: center
     subtitle: STUDIO TECNICO AVERSA CAMPAGNA
-    text: >+
+    text: >
       un team di professionisti qualificati specializzato in consulenze tecniche
-      e progettazione per privati, imprese ed enti pubblici. Con oltre \[X] anni
+      e progettazione per privati, imprese ed enti pubblici. Con oltre 20 anni
       di esperienza nel settore, offriamo una vasta gamma di servizi legati
       all'edilizia, al catasto e alla gestione immobiliare.
 
@@ -48,9 +48,6 @@ sections:
 
 
       Contattaci per una consulenza o per saperne di più sui nostri servizi.
-
-
-
     actions:
       - type: Button
         label: CONTATTACI
