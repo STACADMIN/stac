@@ -1,5 +1,5 @@
 ---
-title: 'Orari di apertura:'
+title: Home
 slug: /
 sections:
   - title:
