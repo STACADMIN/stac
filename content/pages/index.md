@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /Home
+slug: /
 sections:
   - title:
       text: STAC
